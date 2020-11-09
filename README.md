@@ -6,4 +6,4 @@
 
 [view project repository](https://github.com/kiranaw/PeatFire) 
 
-![alt text](https://github.com/peatfire-abm/peatfire-abm.github.io/blob/master/PF-01.jpg?raw=true)
+![alt text](https://github.com/peatfire-abm/peatfire-abm.github.io/blob/main/PF-01.jpg?raw=true)
