@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/peatfire-abm/peatfire-abm.github.io/blob/main/peatfire-logo.JPG?raw=true)
 
-[Download .zip](https://github.com/kiranaw/PeatFire/archive/1.0.zip) 
+[Download .zip](https://github.com/kiranaw/PeatFire/archive/v0.1.zip) 
 
-[Download .tar.gz](https://github.com/kiranaw/PeatFire/archive/1.0.tar.gz)
+[Download .tar.gz](https://github.com/kiranaw/PeatFire/archive/v0.1.tar.gz)
 
 [view project repository](https://github.com/kiranaw/PeatFire) 
 
