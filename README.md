@@ -10,4 +10,3 @@ We developed an agent-based model simulating the interactions between human-indu
 
 [view project repository](https://github.com/kiranaw/PeatFire) 
 
-![alt text](https://github.com/peatfire-abm/peatfire-abm.github.io/blob/main/PF-01.jpg?raw=true)
